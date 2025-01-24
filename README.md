@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toxd4&label=Profile%20views&color=0e75b6&style=flat" alt="toxd4" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Toxd4](https://github.com/Toxd4)
-
-- 📝 I regularly write articles on [https://profil.toxd4.cc](https://profil.toxd4.cc)
-
-- 📫 How to reach me **contact@toxd4.io**
+- 📫 How to reach me **1@toxd4.cc**
 
 
 <h3 align="left">Skills:</h3>
@@ -21,7 +17,6 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <!-- Weitere Icons ... -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
